@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 # Verify username and date
 whoami
 date

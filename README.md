@@ -1,1 +1,1 @@
-This repo holds various short scripts in bash for classes. 
+This repo will hold various short bash scripts in bash for classes. 
